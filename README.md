@@ -1,2 +1,2 @@
 # odin-recipes
-Great
+This is basically Odin recipes and this.
